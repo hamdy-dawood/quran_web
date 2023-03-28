@@ -15,23 +15,23 @@ const RESOURCES = {
 "assets/assets/quran_logo.png": "df945825125f9bc1a2c02cd6a6e05276",
 "assets/FontManifest.json": "1489919a83f9f50edf2a4e8fd7026eb3",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "37f546bf37bb9255c1a8838b650f6702",
+"assets/NOTICES": "6554a74c108c364635dfe6cfb514f4e5",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
 "canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e",
 "canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
 "canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"flutter.js": "1cfe996e845b3a8a33f57607e8b09ee4",
+"flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "38a15d13f6d215a0c5456176c6fed793",
-"/": "38a15d13f6d215a0c5456176c6fed793",
-"main.dart.js": "6fa7a2d783c0c1992fe889d1c6b25b66",
+"index.html": "ee265c6b24bd623cbe470afb56972d4a",
+"/": "ee265c6b24bd623cbe470afb56972d4a",
+"main.dart.js": "11d914232ca6a26d0b055f4fd9354847",
 "manifest.json": "aaf3068293ddd7a39418d70aeccdc8c3",
-"version.json": "d7d2dc67ea5b310b6e0ade8e6b5ee6d2"
+"version.json": "7bc4b9b52ad4b16a31f8b1f96cc020d2"
 };
 
 // The application shell files that are downloaded before a service worker can
